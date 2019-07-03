@@ -2,6 +2,8 @@
 
 Modified flutter setup application to support web build.
 
+![preview image](https://raw.githubusercontent.com/florisdh/flutter-web/master/preview.png)
+
 ## Prerequisite
 
 ### Flutter SDK
